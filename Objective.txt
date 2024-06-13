@@ -1,0 +1,16 @@
+Objective
+ Skills:
+pl:
+Ql:
+Scripting : Shell/ bash Scripting
+OS: Linux, Windows
+Cloud computing: AWS (EC2,IAM,S3,EBS,ASG,ALB,VPC,Cloudwatch,SNS & RDS)
+DecOps tools:
+Git &Git Hub, Maven, Jenkins, Docker &Docker hub, Ansible, Terraform, Kubernetes.
+Web Servers:
+apache tomcat,Nginx
+Deployemnt:
+1.Title: deployment of web application in tomcat server.
+2.Tools used:
+3.git repo:
+4.Explanation:
