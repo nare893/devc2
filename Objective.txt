@@ -9,7 +9,9 @@ DecOps tools:
 Git &Git Hub, Maven, Jenkins, Docker &Docker hub, Ansible, Terraform, Kubernetes.
 Web Servers:
 apache tomcat,Nginx
+
 Deployemnt:
+
 1.Title: deployment of web application in tomcat server.
 2.Tools used:
 3.git repo:
